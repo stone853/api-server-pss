@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: tk.mybatis:mapper-core:1.1.5">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../gradle-7.6/caches/modules-2/files-2.1/tk.mybatis/mapper-core/1.1.5/e8f8fe4f82f02a3fce5de785567a36416f78a740/mapper-core-1.1.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../gradle-7.6/caches/modules-2/files-2.1/tk.mybatis/mapper-core/1.1.5/ca38f4fa83b4f093b6659d644ce54db4b15de6b9/mapper-core-1.1.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

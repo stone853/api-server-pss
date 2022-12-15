@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: tk.mybatis:mapper-weekend:1.1.5">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../gradle-7.6/caches/modules-2/files-2.1/tk.mybatis/mapper-weekend/1.1.5/8a09517a569c72a6dc28359d2306611eb22b9d4c/mapper-weekend-1.1.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../gradle-7.6/caches/modules-2/files-2.1/tk.mybatis/mapper-weekend/1.1.5/af3449fe470a2d15e99c53ccfb7e2529522464e0/mapper-weekend-1.1.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

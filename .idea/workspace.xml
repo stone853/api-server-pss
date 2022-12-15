@@ -1,0 +1,1480 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a0e4f23b-6f8f-495d-862a-06c0162ec30e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/fileContent/fileContent.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/fileHashes/resourceHashesCache.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/javaCompile/classAnalysis.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/javaCompile/jarAnalysis.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/javaCompile/javaCompile.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/javaCompile/taskHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-auth/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/api-auth/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-auth/build/libs/api-auth-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/api-auth/build/libs/api-auth-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-base/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/api-base/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-base/build/classes/java/main/com/sk/utils/AESUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/api-base/build/classes/java/main/com/sk/utils/AESUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-base/build/classes/java/main/com/sk/utils/HttpUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/api-base/build/classes/java/main/com/sk/utils/HttpUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-base/build/libs/api-base-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/api-base/build/libs/api-base-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-web/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/api-web/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-web/build/classes/java/main/com/sk/web/controller/CartController.class" beforeDir="false" afterPath="$PROJECT_DIR$/api-web/build/classes/java/main/com/sk/web/controller/CartController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-web/build/classes/java/main/com/sk/web/controller/ProductDictController.class" beforeDir="false" afterPath="$PROJECT_DIR$/api-web/build/classes/java/main/com/sk/web/controller/ProductDictController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-web/build/classes/java/main/com/sk/web/controller/ProductInfoController.class" beforeDir="false" afterPath="$PROJECT_DIR$/api-web/build/classes/java/main/com/sk/web/controller/ProductInfoController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-web/build/classes/java/main/com/sk/web/controller/StoreController.class" beforeDir="false" afterPath="$PROJECT_DIR$/api-web/build/classes/java/main/com/sk/web/controller/StoreController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-web/build/classes/java/main/com/sk/web/controller/UserApi.class" beforeDir="false" afterPath="$PROJECT_DIR$/api-web/build/classes/java/main/com/sk/web/controller/UserApi.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-web/build/classes/java/main/com/sk/web/model/Cart.class" beforeDir="false" afterPath="$PROJECT_DIR$/api-web/build/classes/java/main/com/sk/web/model/Cart.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-web/build/classes/java/main/com/sk/web/model/CartExample$Criteria.class" beforeDir="false" afterPath="$PROJECT_DIR$/api-web/build/classes/java/main/com/sk/web/model/CartExample$Criteria.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-web/build/classes/java/main/com/sk/web/model/CartExample$Criterion.class" beforeDir="false" afterPath="$PROJECT_DIR$/api-web/build/classes/java/main/com/sk/web/model/CartExample$Criterion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-web/build/classes/java/main/com/sk/web/model/CartExample$GeneratedCriteria.class" beforeDir="false" afterPath="$PROJECT_DIR$/api-web/build/classes/java/main/com/sk/web/model/CartExample$GeneratedCriteria.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-web/build/classes/java/main/com/sk/web/model/Productinfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/api-web/build/classes/java/main/com/sk/web/model/Productinfo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-web/build/classes/java/main/com/sk/web/model/ProductinfoExample$Criteria.class" beforeDir="false" afterPath="$PROJECT_DIR$/api-web/build/classes/java/main/com/sk/web/model/ProductinfoExample$Criteria.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-web/build/classes/java/main/com/sk/web/model/ProductinfoExample$Criterion.class" beforeDir="false" afterPath="$PROJECT_DIR$/api-web/build/classes/java/main/com/sk/web/model/ProductinfoExample$Criterion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-web/build/classes/java/main/com/sk/web/model/ProductinfoExample$GeneratedCriteria.class" beforeDir="false" afterPath="$PROJECT_DIR$/api-web/build/classes/java/main/com/sk/web/model/ProductinfoExample$GeneratedCriteria.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-web/build/classes/java/main/com/sk/web/service/ProductInfoService.class" beforeDir="false" afterPath="$PROJECT_DIR$/api-web/build/classes/java/main/com/sk/web/service/ProductInfoService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-web/build/classes/java/main/com/sk/web/service/imp/CartImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/api-web/build/classes/java/main/com/sk/web/service/imp/CartImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-web/build/classes/java/main/com/sk/web/service/imp/MembershipImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/api-web/build/classes/java/main/com/sk/web/service/imp/MembershipImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-web/build/classes/java/main/com/sk/web/service/imp/ProductInfoImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/api-web/build/classes/java/main/com/sk/web/service/imp/ProductInfoImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-web/build/classes/java/main/com/sk/web/swagger/SwaggerConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/api-web/build/classes/java/main/com/sk/web/swagger/SwaggerConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-web/build/classes/java/test/com/sk/web/EncryptTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-web/build/classes/java/test/com/sk/web/GeneratorTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-web/build/libs/api-web-0.1.jar" beforeDir="false" afterPath="$PROJECT_DIR$/api-web/build/libs/api-web-0.1.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-web/build/reports/tests/test/classes/com.sk.web.EncryptTest.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-web/build/reports/tests/test/css/base-style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-web/build/reports/tests/test/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-web/build/reports/tests/test/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-web/build/reports/tests/test/js/report.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-web/build/reports/tests/test/packages/com.sk.web.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-web/build/resources/main/application-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/api-web/build/resources/main/application-dev.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-web/build/resources/main/application-prod.yml" beforeDir="false" afterPath="$PROJECT_DIR$/api-web/build/resources/main/application-prod.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-web/build/resources/main/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/api-web/build/resources/main/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-web/build/resources/main/cert/5173245_www.csh111.top.pfx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-web/build/resources/main/generatorConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/api-web/build/resources/main/generatorConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-web/build/resources/main/mapper/CartMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/api-web/build/resources/main/mapper/CartMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-web/build/resources/main/mapper/ProductinfoMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/api-web/build/resources/main/mapper/ProductinfoMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-web/build/test-results/test/TEST-com.sk.web.EncryptTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-web/build/test-results/test/binary/output.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-web/build/test-results/test/binary/output.bin.idx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-web/build/test-results/test/binary/results.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-web/build/tmp/jar/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-web/build/tmp/war/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-web/src/main/java/com/sk/web/controller/CartController.java" beforeDir="false" afterPath="$PROJECT_DIR$/api-web/src/main/java/com/sk/web/controller/CartController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-web/src/main/java/com/sk/web/controller/ProductDictController.java" beforeDir="false" afterPath="$PROJECT_DIR$/api-web/src/main/java/com/sk/web/controller/ProductDictController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-web/src/main/java/com/sk/web/controller/ProductInfoController.java" beforeDir="false" afterPath="$PROJECT_DIR$/api-web/src/main/java/com/sk/web/controller/ProductInfoController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-web/src/main/java/com/sk/web/controller/StoreController.java" beforeDir="false" afterPath="$PROJECT_DIR$/api-web/src/main/java/com/sk/web/controller/StoreController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-web/src/main/java/com/sk/web/controller/UserApi.java" beforeDir="false" afterPath="$PROJECT_DIR$/api-web/src/main/java/com/sk/web/controller/UserApi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-web/src/main/java/com/sk/web/model/Cart.java" beforeDir="false" afterPath="$PROJECT_DIR$/api-web/src/main/java/com/sk/web/model/Cart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-web/src/main/java/com/sk/web/model/CartExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/api-web/src/main/java/com/sk/web/model/CartExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-web/src/main/java/com/sk/web/model/Productinfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/api-web/src/main/java/com/sk/web/model/Productinfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-web/src/main/java/com/sk/web/model/ProductinfoExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/api-web/src/main/java/com/sk/web/model/ProductinfoExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-web/src/main/java/com/sk/web/service/ProductInfoService.java" beforeDir="false" afterPath="$PROJECT_DIR$/api-web/src/main/java/com/sk/web/service/ProductInfoService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-web/src/main/java/com/sk/web/service/imp/CartImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/api-web/src/main/java/com/sk/web/service/imp/CartImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-web/src/main/java/com/sk/web/service/imp/ProductInfoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/api-web/src/main/java/com/sk/web/service/imp/ProductInfoImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-web/src/main/resources/application-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/api-web/src/main/resources/application-dev.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-web/src/main/resources/application-prod.yml" beforeDir="false" afterPath="$PROJECT_DIR$/api-web/src/main/resources/application-prod.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-web/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/api-web/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-web/src/main/resources/cert/5173245_www.csh111.top.pfx" beforeDir="false" afterPath="$PROJECT_DIR$/api-web/src/main/resources/cert/key.pfx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-web/src/main/resources/generatorConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/api-web/src/main/resources/generatorConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-web/src/main/resources/mapper/CartMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/api-web/src/main/resources/mapper/CartMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-web/src/main/resources/mapper/ProductinfoMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/api-web/src/main/resources/mapper/ProductinfoMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sk/web/model/TcrmCart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sk/web/model/TcrmCart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sk/web/model/TcrmCartExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sk/web/model/TcrmCartExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sk/web/model/TcrmProductinfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sk/web/model/TcrmProductinfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sk/web/model/TcrmProductinfoExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sk/web/model/TcrmProductinfoExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/mappers/TcrmCartMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/mappers/TcrmCartMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/mappers/TcrmProductinfoMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/mappers/TcrmProductinfoMapper.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/api-web">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/api-auth">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="api-server" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="spring-beans.schema" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>openid</find>
+      <find>open</find>
+      <find>note</find>
+      <find>Isadmin</find>
+      <find>isadmin</find>
+      <find>&lt;resultMap id=&quot;BaseResultMap&quot; type=&quot;com.sk.web.model.TcrmProductinfo&quot;&gt;</find>
+      <find>page</find>
+      <find>tive</find>
+      <find>getOpenId</find>
+      <find>getCouponCode</find>
+      <find>couponCode</find>
+      <find>System.out.print</find>
+      <find>ui</find>
+      <find>swagger</find>
+      <find>TcrmSaleRecord</find>
+      <find>product</find>
+      <find>所有产品</find>
+      <find>access_token</find>
+      <find>Productinfo</find>
+      <find>ResultListModel</find>
+      <find>store</find>
+      <find>ismain</find>
+      <find>购物车</find>
+      <find>nickname</find>
+      <find>UserAddress</find>
+      <find>Cart</find>
+      <find>void</find>
+      <find>token</find>
+      <find>get</find>
+      <find>a1</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>消费</replace>
+      <replace>ConsumeDetail</replace>
+      <replace>产品</replace>
+      <replace>ConsumeHis</replace>
+      <replace>消费历史</replace>
+      <replace>会员</replace>
+      <replace>RechargeInfo</replace>
+      <replace>充值</replace>
+      <replace>RefundInfo</replace>
+      <replace>退款</replace>
+      <replace>int</replace>
+      <replace>password</replace>
+      <replace>Integer</replace>
+      <replace>ConsumeExample</replace>
+      <replace>ProductImage</replace>
+      <replace>note</replace>
+      <replace>IsAdmin</replace>
+      <replace>CouponPublish</replace>
+      <replace>Info</replace>
+      <replace>销售记录</replace>
+      <replace>SaleRecord</replace>
+      <replace>ResultModelImp</replace>
+      <replace>isMain</replace>
+      <replace>UserAddress</replace>
+      <replace>用户地址</replace>
+      <replace>Membership</replace>
+      <replace>Store</replace>
+      <replace>ProductDict</replace>
+      <replace>Productinfo</replace>
+      <replace>Cart</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>D:\work\stone\api-server\api-web\src\main\java\com\com\sk\web</dir>
+      <dir>D:\work\stone\api-server\api-web\src\main\java\com\sk\web</dir>
+      <dir>D:\work\stone\api-server\api-web</dir>
+      <dir>D:\work\stone\api-server</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/api-web/src/main/java/com/sk/web/service/BaseService.java" />
+        <option value="$PROJECT_DIR$/api-web/src/main/java/com/sk/web/service/UserAddressService.java" />
+        <option value="$PROJECT_DIR$/api-web/src/main/java/com/sk/web/service/imp/UserAddressImpl.java" />
+        <option value="$PROJECT_DIR$/api-web/src/main/java/com/sk/web/mapper/UserAddressMapper.java" />
+        <option value="$PROJECT_DIR$/api-web/src/main/java/com/sk/web/controller/UserAddressController.java" />
+        <option value="$PROJECT_DIR$/api-web/src/main/java/com/sk/web/model/UserAddressExample.java" />
+        <option value="$PROJECT_DIR$/api-web/src/main/java/com/sk/web/model/UserAddress.java" />
+        <option value="$PROJECT_DIR$/api-web/src/main/resources/mapper/UserAddressMapper.xml" />
+        <option value="$PROJECT_DIR$/api-web/src/main/java/com/sk/web/model/MembershipExample.java" />
+        <option value="$PROJECT_DIR$/api-web/src/main/java/com/sk/web/model/Membership.java" />
+        <option value="$PROJECT_DIR$/api-web/src/main/java/com/sk/web/service/MembershipService.java" />
+        <option value="$PROJECT_DIR$/api-web/src/main/java/com/sk/web/mapper/MembershipMapper.java" />
+        <option value="$PROJECT_DIR$/api-web/src/main/java/com/sk/web/service/imp/MembershipImpl.java" />
+        <option value="$PROJECT_DIR$/api-web/src/main/java/com/sk/web/service/imp/BaseImpl.java" />
+        <option value="$PROJECT_DIR$/api-web/src/main/resources/mapper/MembershipMapper.xml" />
+        <option value="$PROJECT_DIR$/api-web/src/main/java/com/sk/web/utils/UserHelper.java" />
+        <option value="$PROJECT_DIR$/api-web/src/main/java/com/sk/web/controller/MembershipController.java" />
+        <option value="$PROJECT_DIR$/api-web/src/main/java/com/sk/web/model/Store.java" />
+        <option value="$PROJECT_DIR$/api-web/src/main/java/com/sk/web/model/StoreExample.java" />
+        <option value="$PROJECT_DIR$/api-web/src/main/resources/mapper/StoreMapper.xml" />
+        <option value="$PROJECT_DIR$/api-web/src/main/java/com/sk/web/service/imp/StoreImpl.java" />
+        <option value="$PROJECT_DIR$/api-web/src/main/java/com/sk/web/service/StoreService.java" />
+        <option value="$PROJECT_DIR$/api-web/src/main/java/com/sk/web/mapper/StoreMapper.java" />
+        <option value="$PROJECT_DIR$/api-web/src/main/java/com/sk/web/model/ProductDict.java" />
+        <option value="$PROJECT_DIR$/api-web/src/main/resources/mapper/ProductDictMapper.xml" />
+        <option value="$PROJECT_DIR$/api-web/src/main/java/com/sk/web/mapper/ProductDictMapper.java" />
+        <option value="$PROJECT_DIR$/api-web/src/main/resources/generatorConfig.xml" />
+        <option value="$PROJECT_DIR$/api-web/src/main/java/com/sk/web/model/CartExample.java" />
+        <option value="$PROJECT_DIR$/api-web/src/main/java/com/sk/web/model/Cart.java" />
+        <option value="$PROJECT_DIR$/api-web/src/main/java/com/sk/web/model/ProductinfoExample.java" />
+        <option value="$PROJECT_DIR$/api-web/src/main/resources/mapper/ProductinfoMapper.xml" />
+        <option value="$PROJECT_DIR$/api-web/src/main/resources/mapper/CartMapper.xml" />
+        <option value="$PROJECT_DIR$/api-web/src/main/java/com/sk/web/model/Productinfo.java" />
+        <option value="$PROJECT_DIR$/api-web/src/main/java/com/sk/web/service/imp/CartImpl.java" />
+        <option value="$PROJECT_DIR$/api-web/src/main/java/com/sk/web/controller/CartController.java" />
+        <option value="$PROJECT_DIR$/api-web/src/main/java/com/sk/web/controller/ProductDictController.java" />
+        <option value="$PROJECT_DIR$/api-web/src/main/java/com/sk/web/controller/StoreController.java" />
+        <option value="$PROJECT_DIR$/api-web/src/main/java/com/sk/web/controller/ProductInfoController.java" />
+        <option value="$PROJECT_DIR$/api-web/src/main/java/com/sk/web/service/ProductInfoService.java" />
+        <option value="$PROJECT_DIR$/api-web/src/main/java/com/sk/web/service/imp/ProductInfoImpl.java" />
+        <option value="$PROJECT_DIR$/api-web/src/main/java/com/sk/web/controller/UserApi.java" />
+        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/api-web/src/main/java/com/sk/web/utils/ObjectData.java" />
+        <option value="$PROJECT_DIR$/api-web/src/main/java/com/sk/web/utils/ObjectDataA.java" />
+        <option value="$PROJECT_DIR$/api-web/src/main/java/com/sk/web/utils/AccumulateWorkTime.java" />
+        <option value="$PROJECT_DIR$/api-web/src/main/java/com/sk/web/utils/ExcelListener.java" />
+        <option value="$PROJECT_DIR$/api-web/src/main/java/com/sk/web/utils/DataModel.java" />
+        <option value="$PROJECT_DIR$/api-web/src/main/java/com/sk/web/utils/Test.java" />
+        <option value="$PROJECT_DIR$/api-web/src/main/resources/application-dev.yml" />
+        <option value="$PROJECT_DIR$/api-web/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/api-web/src/main/resources/application-prod.yml" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="240" />
+    <option name="y" value="130" />
+    <option name="width" value="1440" />
+    <option name="height" value="785" />
+  </component>
+  <component name="ProjectId" id="2Iwydrlnmf8dacSQTPeDhdyThmv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="api-server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="api-server" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="api-server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="api-server" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="api-base" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="api-server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="api-server" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="api-web" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="api-server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="api-server" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="api-web" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="api-server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="api-server" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="api-web" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="api-server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="api-server" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="api-web" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="api-server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="api-server" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="api-web" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="sk" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="api-server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="api-server" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="api-web" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="sk" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="api-server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="api-server" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="api-web" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="sk" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="api-server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="api-server" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="api-web" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="sk" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="api-server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="api-server" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="api-web" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="api-server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="api-server" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="api-web" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="cert" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="api-server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="api-server" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="api-web" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="mapper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="api-server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="api-server" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="api-web" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="api-server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="api-server" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="api-web" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="api-server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="api-server" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="api-web" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="api-server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="api-server" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="api-server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="api-server" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="api-server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="api-server" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="api-server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="api-server" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="api-server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="api-server" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="sk" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="api-server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="api-server" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="sk" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="api-server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="api-server" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="api-server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="api-server" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="mappers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="api-server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="api-server" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="api-server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;last_opened_file_path&quot;: &quot;D:/sk/api-server/build.gradle&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.notifications&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\work\stone\api-server\api-web\src\main\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.sk.web.utils" />
+      <recent name="com.sk.web.controller" />
+      <recent name="com.sk.web.service" />
+      <recent name="com.sk.web.service.imp" />
+      <recent name="com.sk.model" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\work\stone\api-server\api-web\src\main\resources" />
+      <recent name="D:\work\stone\api-server\api-web\src\main\java\com\sk\web\model" />
+      <recent name="D:\work\stone\api-server\api-web\src\main\resources\mapper" />
+      <recent name="D:\work\stone\api-server\api-web\src\main\java\com\sk\web\mapper" />
+      <recent name="D:\work\stone\api-server\api-web\build\libs" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ServerSpringbootApplication">
+    <configuration name="ServerSpringbootApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sk.ServerSpringbootApplication" />
+      <module name="api-server.api-web.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sk.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="api-server:api-web [bootJar]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/api-web" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="bootJar" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="api-server:api-web [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/api-web" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="api-server:api-web [clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/api-web" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="clean" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="ServerSpringbootApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="api-web_main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.sk.ServerSpringbootApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.ServerSpringbootApplication" />
+      <item itemvalue="Gradle.api-server:api-web [build]" />
+      <item itemvalue="Gradle.api-server:api-web [clean]" />
+      <item itemvalue="Gradle.api-server:api-web [bootJar]" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ServerSpringbootApplication" />
+        <item itemvalue="Gradle.api-server:api-web [bootJar]" />
+        <item itemvalue="Gradle.api-server:api-web [clean]" />
+        <item itemvalue="Gradle.api-server:api-web [build]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a0e4f23b-6f8f-495d-862a-06c0162ec30e" name="Default Changelist" comment="" />
+      <created>1597376021352</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597376021352</updated>
+      <workItem from="1597376025374" duration="6153000" />
+      <workItem from="1597632180244" duration="2548000" />
+      <workItem from="1597645899498" duration="9216000" />
+      <workItem from="1597713493736" duration="4000000" />
+      <workItem from="1598234247717" duration="22704000" />
+      <workItem from="1598318124656" duration="1317000" />
+      <workItem from="1598405773720" duration="8570000" />
+      <workItem from="1598507572948" duration="3091000" />
+      <workItem from="1598577419538" duration="13571000" />
+      <workItem from="1598697576285" duration="2129000" />
+      <workItem from="1598938558229" duration="2574000" />
+      <workItem from="1599110110583" duration="3370000" />
+      <workItem from="1599548123438" duration="30000" />
+      <workItem from="1599877439618" duration="3637000" />
+      <workItem from="1599968835598" duration="664000" />
+      <workItem from="1599984378496" duration="4328000" />
+      <workItem from="1600086677029" duration="708000" />
+      <workItem from="1600134594929" duration="7737000" />
+      <workItem from="1600305741801" duration="11217000" />
+      <workItem from="1600653838186" duration="12232000" />
+      <workItem from="1600740106567" duration="2653000" />
+      <workItem from="1600916791391" duration="746000" />
+      <workItem from="1601171661034" duration="3270000" />
+      <workItem from="1602170213998" duration="55000" />
+      <workItem from="1604457084518" duration="20092000" />
+      <workItem from="1604540622954" duration="18474000" />
+      <workItem from="1604626944606" duration="15841000" />
+      <workItem from="1604887486182" duration="10590000" />
+      <workItem from="1604973576181" duration="16414000" />
+      <workItem from="1605085610322" duration="6022000" />
+      <workItem from="1605145122796" duration="1458000" />
+      <workItem from="1605160826377" duration="2575000" />
+      <workItem from="1605253652674" duration="4183000" />
+      <workItem from="1605509440816" duration="2811000" />
+      <workItem from="1605575193560" duration="17317000" />
+      <workItem from="1605660982824" duration="7166000" />
+      <workItem from="1605748738528" duration="6747000" />
+      <workItem from="1605842221396" duration="4740000" />
+      <workItem from="1606099853224" duration="8457000" />
+      <workItem from="1606182313928" duration="27327000" />
+      <workItem from="1606268390726" duration="24892000" />
+      <workItem from="1606355075689" duration="23043000" />
+      <workItem from="1606441148835" duration="23196000" />
+      <workItem from="1606700695362" duration="16962000" />
+      <workItem from="1606785559319" duration="95000" />
+      <workItem from="1606873553411" duration="16149000" />
+      <workItem from="1606960819325" duration="18854000" />
+      <workItem from="1607045107350" duration="12918000" />
+      <workItem from="1607404437158" duration="17766000" />
+      <workItem from="1607477307320" duration="9907000" />
+      <workItem from="1607563172576" duration="12179000" />
+      <workItem from="1607665456316" duration="2775000" />
+      <workItem from="1608280739606" duration="10000" />
+      <workItem from="1609139889483" duration="3505000" />
+      <workItem from="1609294741602" duration="11786000" />
+      <workItem from="1609377002767" duration="11466000" />
+      <workItem from="1609834681574" duration="2725000" />
+      <workItem from="1609894815003" duration="7420000" />
+      <workItem from="1609986915473" duration="5151000" />
+      <workItem from="1610070624892" duration="5520000" />
+      <workItem from="1610414324131" duration="23721000" />
+      <workItem from="1610501651827" duration="15436000" />
+      <workItem from="1611278051405" duration="9179000" />
+      <workItem from="1611535789513" duration="9552000" />
+      <workItem from="1612169748582" duration="2979000" />
+      <workItem from="1612227335162" duration="13475000" />
+      <workItem from="1612314186577" duration="7569000" />
+      <workItem from="1612400429516" duration="20542000" />
+      <workItem from="1612661186533" duration="6707000" />
+      <workItem from="1612748969235" duration="5875000" />
+      <workItem from="1613609646740" duration="17144000" />
+      <workItem from="1613696646776" duration="10283000" />
+      <workItem from="1613725845918" duration="2157000" />
+      <workItem from="1613782755129" duration="18200000" />
+      <workItem from="1613956512535" duration="17050000" />
+      <workItem from="1614041895701" duration="12831000" />
+      <workItem from="1614128436585" duration="18028000" />
+      <workItem from="1614214346593" duration="22722000" />
+      <workItem from="1614301575704" duration="12750000" />
+      <workItem from="1614589931534" duration="592000" />
+      <workItem from="1614661798366" duration="10796000" />
+      <workItem from="1614736287359" duration="21763000" />
+      <workItem from="1614821679200" duration="13148000" />
+      <workItem from="1614910128165" duration="5807000" />
+      <workItem from="1615009332205" duration="4102000" />
+      <workItem from="1615019949680" duration="7231000" />
+      <workItem from="1615110882802" duration="1910000" />
+      <workItem from="1615168611252" duration="22547000" />
+      <workItem from="1615255883229" duration="16629000" />
+      <workItem from="1615340106185" duration="3655000" />
+      <workItem from="1615518224291" duration="12383000" />
+      <workItem from="1615773111690" duration="1791000" />
+      <workItem from="1615777137762" duration="10980000" />
+      <workItem from="1615857016782" duration="13023000" />
+      <workItem from="1615943069109" duration="1994000" />
+      <workItem from="1615949540656" duration="12136000" />
+      <workItem from="1616028946566" duration="9978000" />
+      <workItem from="1616410283757" duration="146000" />
+      <workItem from="1616653634480" duration="86000" />
+      <workItem from="1617933368727" duration="256000" />
+      <workItem from="1617963105011" duration="333000" />
+      <workItem from="1618293125241" duration="629000" />
+      <workItem from="1618397314370" duration="623000" />
+      <workItem from="1619075953957" duration="2531000" />
+      <workItem from="1619399808274" duration="6610000" />
+      <workItem from="1620716099198" duration="5122000" />
+      <workItem from="1621497978199" duration="590000" />
+      <workItem from="1622078077463" duration="3773000" />
+      <workItem from="1622163801906" duration="5416000" />
+      <workItem from="1623117826704" duration="4526000" />
+      <workItem from="1623288177647" duration="2122000" />
+      <workItem from="1624459960700" duration="395000" />
+      <workItem from="1624496156092" duration="11204000" />
+      <workItem from="1624757396580" duration="7651000" />
+      <workItem from="1624883602245" duration="1099000" />
+      <workItem from="1624928574510" duration="4553000" />
+      <workItem from="1625215536199" duration="720000" />
+      <workItem from="1625583839157" duration="588000" />
+      <workItem from="1626343244126" duration="2210000" />
+      <workItem from="1626402006699" duration="15806000" />
+      <workItem from="1626490114150" duration="7441000" />
+      <workItem from="1626656580802" duration="19703000" />
+      <workItem from="1626743999697" duration="16738000" />
+      <workItem from="1626855630566" duration="7515000" />
+      <workItem from="1627088632473" duration="4398000" />
+      <workItem from="1627389853470" duration="6437000" />
+      <workItem from="1627441589300" duration="3560000" />
+      <workItem from="1628134535157" duration="909000" />
+      <workItem from="1630900685041" duration="884000" />
+      <workItem from="1645366436206" duration="206000" />
+      <workItem from="1645970058664" duration="2017000" />
+      <workItem from="1661333508029" duration="6288000" />
+      <workItem from="1661610382659" duration="240000" />
+      <workItem from="1663379362875" duration="3319000" />
+      <workItem from="1663987289298" duration="3837000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="EncryptTest_contextLoads - 2021.03.16 at 16h 01m 06s.xml">
+      <configuration name="EncryptTest.contextLoads" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="EncryptTest_contextLoads - 2021.03.16 at 16h 02m 46s.xml">
+      <configuration name="EncryptTest.contextLoads" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="EncryptTest_contextLoads - 2021.03.16 at 16h 02m 47s.xml">
+      <configuration name="EncryptTest.contextLoads" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="EncryptTest_contextLoads - 2021.03.16 at 16h 04m 08s.xml">
+      <configuration name="EncryptTest.contextLoads" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="EncryptTest_contextLoads - 2021.03.16 at 16h 04m 48s.xml">
+      <configuration name="EncryptTest.contextLoads" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="EncryptTest_contextLoads - 2021.03.16 at 16h 30m 51s.xml">
+      <configuration name="EncryptTest.contextLoads" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="EncryptTest_contextLoads - 2021.03.16 at 16h 31m 29s.xml">
+      <configuration name="EncryptTest.contextLoads" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="EncryptTest_contextLoads - 2021.03.16 at 16h 40m 04s.xml">
+      <configuration name="EncryptTest.contextLoads" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="EncryptTest_contextLoads - 2021.03.16 at 16h 40m 51s.xml">
+      <configuration name="EncryptTest.contextLoads" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="EncryptTest_contextLoads - 2021.03.16 at 16h 41m 23s.xml">
+      <configuration name="EncryptTest.contextLoads" configurationId="GradleRunConfiguration" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1100199000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.34785524" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3282123" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.36173186" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3960499" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3286119" />
+      <window_info anchor="bottom" id="Build" order="7" weight="0.32848233" />
+      <window_info anchor="bottom" id="Spring" order="8" weight="0.3286119" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.22972973" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="13" weight="0.3286119" />
+      <window_info anchor="bottom" id="Java Enterprise" order="14" weight="0.3286119" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.32908848" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Gradle" order="6" weight="0.2922252" />
+      <window_info anchor="right" id="Database" order="7" weight="0.32942432" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info anchor="right" id="Bean Validation" order="10" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/api-auth/src/main/java/com/sk/interceptor/AuthInterceptor.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/api-auth/src/main/java/com/sk/interceptor/AuthInterceptor.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/api-auth/src/main/java/com/sk/TestConfig.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/api-auth/src/main/java/com/sk/web/VVConfig.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/api-auth/src/main/java/com/sk/interceptor/InterceptorConfig.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/api-auth/src/main/java/com/sk/interceptor/AuthInterceptor.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/api-auth/src/main/java/com/sk/interceptor/AuthInterceptor.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/api-web/src/main/java/com/sk/web/controller/ProductImageController.java</url>
+          <line>77</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/api-web/src/main/java/com/sk/web/service/imp/ProductInfoImpl.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="SpringBootApplicationConfigurationType">
+        <watch expression="file.getName()" language="JAVA" />
+        <watch expression="file.getName()" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>file.getName()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/api-web/src/main/java/com/sk/web/mapper/StoreMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="30" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api-web/src/main/java/com/sk/web/model/ProductDict.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="470">
+          <caret line="49" column="1" lean-forward="true" selection-start-line="49" selection-start-column="1" selection-end-line="49" selection-end-column="1" />
+          <folding>
+            <element signature="e#392#393#0" expanded="true" />
+            <element signature="e#423#424#0" expanded="true" />
+            <element signature="e#586#587#0" expanded="true" />
+            <element signature="e#617#618#0" expanded="true" />
+            <element signature="e#782#783#0" expanded="true" />
+            <element signature="e#815#816#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api-web/src/main/java/com/sk/web/mapper/BaseMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../.gradle/caches/modules-2/files-2.1/org.springframework/spring-web/5.1.4.RELEASE/1c97085f1052ad3206bafd364eba572d9f7565c2/spring-web-5.1.4.RELEASE-sources.jar!/org/springframework/web/method/support/InvocableHandlerMethod.java" />
+    <entry file="file://$PROJECT_DIR$/api-web/src/main/resources/mapper/ProductDictMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" column="9" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api-web/src/main/resources/mapper/MembershipMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="28" column="52" selection-start-line="28" selection-start-column="39" selection-end-line="28" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api-web/src/main/java/com/sk/web/mapper/ProductDictMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api-web/src/main/java/com/sk/web/constant/RequestCommonPathConstant.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="31" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api-base/src/main/java/com/sk/model/ResultJsonModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="36" column="19" selection-start-line="36" selection-start-column="19" selection-end-line="36" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api-web/src/test/java/com/sk/web/GeneratorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="24" column="14" lean-forward="true" selection-start-line="24" selection-start-column="14" selection-end-line="24" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api-web/src/main/java/com/sk/web/model/Consume.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="8" selection-start-line="8" selection-end-line="8" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api-web/src/main/java/com/sk/web/model/CartExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="13" column="11" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api-web/src/main/java/com/sk/web/constant/CommonConstant.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api-web/src/main/java/com/sk/web/model/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api-web/src/main/java/com/sk/web/controller/MembershipController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="30" column="4" selection-start-line="30" selection-start-column="4" selection-end-line="31" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api-web/src/main/java/com/sk/web/model/Productinfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="31" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#761#762#0" expanded="true" />
+            <element signature="e#788#789#0" expanded="true" />
+            <element signature="e#927#928#0" expanded="true" />
+            <element signature="e#954#955#0" expanded="true" />
+            <element signature="e#1158#1159#0" expanded="true" />
+            <element signature="e#1187#1188#0" expanded="true" />
+            <element signature="e#1272#1273#0" expanded="true" />
+            <element signature="e#1298#1299#0" expanded="true" />
+            <element signature="e#1434#1435#0" expanded="true" />
+            <element signature="e#1463#1464#0" expanded="true" />
+            <element signature="e#1617#1618#0" expanded="true" />
+            <element signature="e#1645#1646#0" expanded="true" />
+            <element signature="e#1776#1777#0" expanded="true" />
+            <element signature="e#1812#1813#0" expanded="true" />
+            <element signature="e#1963#1964#0" expanded="true" />
+            <element signature="e#1991#1992#0" expanded="true" />
+            <element signature="e#2135#2136#0" expanded="true" />
+            <element signature="e#2162#2163#0" expanded="true" />
+            <element signature="e#2300#2301#0" expanded="true" />
+            <element signature="e#2326#2327#0" expanded="true" />
+            <element signature="e#2463#2464#0" expanded="true" />
+            <element signature="e#2493#2494#0" expanded="true" />
+            <element signature="e#2653#2654#0" expanded="true" />
+            <element signature="e#2686#2687#0" expanded="true" />
+            <element signature="e#2856#2857#0" expanded="true" />
+            <element signature="e#2884#2885#0" expanded="true" />
+            <element signature="e#3034#3035#0" expanded="true" />
+            <element signature="e#3067#3068#0" expanded="true" />
+            <element signature="e#3244#3245#0" expanded="true" />
+            <element signature="e#3278#3279#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api-web/src/main/java/com/sk/web/model/ProductinfoExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="13" column="11" lean-forward="true" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#296#297#0" expanded="true" />
+            <element signature="e#352#353#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api-web/src/main/java/com/sk/web/service/imp/MembershipImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="28" column="175" lean-forward="true" selection-start-line="28" selection-start-column="115" selection-end-line="28" selection-end-column="175" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api-web/src/main/resources/mapper/ProductinfoMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="779">
+          <caret line="41" column="28" selection-start-line="41" selection-start-column="24" selection-end-line="41" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api-web/src/main/java/com/sk/web/service/imp/CartImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="37" column="148" selection-start-line="37" selection-start-column="148" selection-end-line="37" selection-end-column="148" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api-web/src/main/java/com/sk/web/controller/ConsumeController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api-web/src/main/resources/mapper/CartMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="25" column="43" selection-start-line="25" selection-start-column="43" selection-end-line="25" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api-web/src/main/java/com/sk/web/controller/ProductDictController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="41" column="33" selection-start-line="41" selection-start-column="33" selection-end-line="41" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api-web/src/main/java/com/sk/web/service/imp/BaseImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="40" column="27" selection-start-line="40" selection-start-column="27" selection-end-line="40" selection-end-column="27" />
+          <folding>
+            <element signature="e#720#721#0" expanded="true" />
+            <element signature="e#749#750#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api-web/src/main/java/com/sk/web/service/BaseService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api-web/src/main/java/com/sk/web/controller/CartController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1843">
+          <caret line="119" column="87" selection-start-line="119" selection-start-column="23" selection-end-line="119" selection-end-column="87" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api-web/src/main/java/com/sk/web/model/Cart.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1729">
+          <caret line="112" column="16" selection-start-line="112" selection-start-column="16" selection-end-line="112" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api-web/src/main/java/com/sk/web/controller/ProductInfoController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="47" column="45" selection-start-line="47" selection-start-column="45" selection-end-line="47" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api-web/src/main/java/com/sk/web/service/ProductInfoService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="15" column="70" selection-start-line="15" selection-start-column="70" selection-end-line="15" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api-web/src/main/java/com/sk/web/service/imp/ProductInfoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="779">
+          <caret line="57" column="93" selection-start-line="57" selection-start-column="93" selection-end-line="57" selection-end-column="93" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api-web/src/main/java/com/sk/web/controller/StoreController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1007">
+          <caret line="77" selection-start-line="77" selection-end-line="77" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1101#1102#0" expanded="true" />
+            <element signature="e#1149#1150#0" expanded="true" />
+            <element signature="e#1401#1402#0" expanded="true" />
+            <element signature="e#1458#1459#0" expanded="true" />
+            <element signature="e#1683#1684#0" expanded="true" />
+            <element signature="e#1731#1732#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api-web/src/main/java/com/sk/web/controller/UserAddressController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1197">
+          <caret line="82" selection-start-line="82" selection-end-line="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api-web/src/main/java/com/sk/web/controller/ProductImageController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="893">
+          <caret line="76" column="72" selection-start-line="76" selection-start-column="36" selection-end-line="76" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api-base/build.gradle">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api-web/build.gradle">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings.gradle">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="71" column="8" selection-start-line="71" selection-start-column="8" selection-end-line="71" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api-web/src/main/java/com/sk/web/utils/ObjectDataA.java" />
+    <entry file="file://$PROJECT_DIR$/api-web/src/main/java/com/sk/web/utils/AccumulateWorkTime.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="22" column="58" selection-start-line="22" selection-start-column="58" selection-end-line="22" selection-end-column="58" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api-web/src/main/resources/log4j2.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api-web/src/main/java/com/sk/web/utils/ExcelListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="18" column="42" selection-start-line="18" selection-start-column="42" selection-end-line="18" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#416#417#0" expanded="true" />
+            <element signature="e#465#466#0" expanded="true" />
+            <element signature="e#761#762#0" expanded="true" />
+            <element signature="e#808#809#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api-web/src/main/java/com/sk/ServerSpringbootApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="e#479#480#0" expanded="true" />
+            <element signature="e#557#558#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api-web/src/main/resources/cert/pfx-password.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api-web/src/main/java/com/sk/web/utils/DataModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="97" column="5" selection-start-line="97" selection-start-column="5" selection-end-line="97" selection-end-column="5" />
+          <folding>
+            <element signature="e#4547#4548#0" expanded="true" />
+            <element signature="e#4575#4576#0" expanded="true" />
+            <element signature="e#4612#4613#0" expanded="true" />
+            <element signature="e#4640#4641#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api-web/src/main/resources/generatorConfig.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="366">
+          <caret line="66" column="35" selection-start-line="66" selection-start-column="35" selection-end-line="66" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api-web/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="12" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api-web/src/main/resources/application-dev.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-589">
+          <caret line="8" column="34" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api-web/src/main/resources/application-prod.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1026">
+          <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api-web/src/main/java/com/sk/web/utils/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="18" column="10" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api-web/src/main/java/com/sk/web/utils/FileUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api-web/src/main/java/com/sk/web/controller/UserApi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="326">
+          <caret line="49" column="64" selection-start-line="49" selection-start-column="64" selection-end-line="49" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2853855" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2853855" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2853855" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>api-web_test|api-web|api-server</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2853855" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Gradle: javax.annotation:javax.annotation-api:1.3.2</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2853855" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

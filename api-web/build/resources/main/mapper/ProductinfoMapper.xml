@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.sk.web.mapper.ProductInfoMapper">
+  <resultMap id="BaseResultMap" type="com.sk.web.model.Productinfo">
+    <result column="id" jdbcType="INTEGER" property="id" />
+    <result column="name" jdbcType="VARCHAR" property="name" />
+    <result column="type" jdbcType="VARCHAR" property="type" />
+    <result column="img_url" jdbcType="VARCHAR" property="imgUrl" />
+    <result column="des" jdbcType="VARCHAR" property="des" />
+    <result column="detail" jdbcType="VARCHAR" property="detail" />
+    <result column="price" jdbcType="DECIMAL" property="price" />
+    <result column="color" jdbcType="VARCHAR" property="color" />
+    <result column="size" jdbcType="VARCHAR" property="size" />
+    <result column="price_discount" jdbcType="DECIMAL" property="priceDiscount" />
+    <result column="tag" jdbcType="VARCHAR" property="tag" />
+    <result column="subhead" jdbcType="VARCHAR" property="subhead" />
+    <result column="is_discount" jdbcType="VARCHAR" property="isDiscount" />
+    <result column="createtime" jdbcType="VARCHAR" property="createtime" />
+    <result column="order_number" jdbcType="INTEGER" property="orderNumber" />
+  </resultMap>
+
+
+<!--  <select id="findAll" resultType="com.sk.web.model.Person">-->
+<!--    SELECT-->
+<!--    *-->
+<!--    FROM-->
+<!--    <include refid="table" />-->
+<!--  </select>-->
+
+
+  <select id="selectPage"  resultMap="BaseResultMap" parameterType="com.sk.web.model.Productinfo">
+    select
+    *
+    from tcrm_productinfo where 1=1
+    <if test="id != null and id != ''">
+     and id=#{id}
+    </if>
+    <if test="isDiscount != null and isDiscount != ''">
+      and is_discount=#{isDiscount}
+    </if>
+    <if test="name != null and name != ''">
+      and name like '%${name}%'
+    </if>
+    <if test="type != null and type != ''">
+      and type=#{type}
+    </if>
+    <if test="tag != null and tag != ''">
+      and tag=#{tag}
+    </if>
+    <if test="subhead != null and subhead != ''">
+      and subhead=#{subhead}
+    </if>
+     order by createtime desc
+  </select>
+
+  <select id="publish"  resultMap="BaseResultMap" parameterType="java.util.List">
+    select * from tcrm_productinfo where id in
+    <foreach collection="array" open="(" separator="," close=")" item="haha">
+      #{haha}
+    </foreach>
+  </select>
+
+
+</mapper>
