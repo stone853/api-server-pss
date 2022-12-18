@@ -4,7 +4,7 @@ spring:
     driver-class-name: com.mysql.cj.jdbc.Driver
     username: ENC(kT2BrE32MuY2ZlCWGWAX4g==)
     password: ENC(5peX8ZYZ1pM8q41fAYJ+zvj90JgoS5gy)
-    url:  jdbc:mysql://8.136.148.63:3306/crm?useUnicode=true&characterEncoding=utf8&allowMultiQueries=true&useSSL=false&serverTimezone=UTC
+    url:  jdbc:mysql://8.136.148.63:3306/crm?useUnicode=true&characterEncoding=utf-8&allowMultiQueries=true&useSSL=false&serverTimezone=UTC
     hikari:
       pool-name: SomeThingHikariCP
       minimum-idle: 5
@@ -27,6 +27,7 @@ mybatis:
   configuration:
     use-generated-keys: true
     call-setters-on-nulls: true
+    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
 
 
 
