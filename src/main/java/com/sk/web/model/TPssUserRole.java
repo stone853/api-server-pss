@@ -3,9 +3,9 @@ package com.sk.web.model;
 public class TPssUserRole {
     private Long id;
 
-    private Long userId;
+    private String userId;
 
-    private Long roleId;
+    private String roleCode;
 
     public Long getId() {
         return id;
@@ -15,19 +15,19 @@ public class TPssUserRole {
         this.id = id;
     }
 
-    public Long getUserId() {
+    public String getUserId() {
         return userId;
     }
 
-    public void setUserId(Long userId) {
-        this.userId = userId;
+    public void setUserId(String userId) {
+        this.userId = userId == null ? null : userId.trim();
     }
 
-    public Long getRoleId() {
-        return roleId;
+    public String getRoleCode() {
+        return roleCode;
     }
 
-    public void setRoleId(Long roleId) {
-        this.roleId = roleId;
+    public void setRoleCode(String roleCode) {
+        this.roleCode = roleCode == null ? null : roleCode.trim();
     }
 }

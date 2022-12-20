@@ -19,9 +19,9 @@ import java.text.SimpleDateFormat;
 import java.util.Date;
 
 
-@Api(tags = "用户接口")
+@Api(tags = "用户接口(作废)")
 @RestController
-@RequestMapping(RequestCommonPathConstant.REQUEST_PROJECT_PATH+"/user")
+@RequestMapping(RequestCommonPathConstant.REQUEST_PROJECT_PATH+"/user/zuofei")
 public class UserApi {
     @Autowired
     MembershipService membershipService;

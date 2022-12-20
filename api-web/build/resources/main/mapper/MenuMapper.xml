@@ -40,8 +40,10 @@
 
           <if test="userId != null and userId != ''">
             and t1.id in (
-                select menu_id from t_pss_role_menu t where t.role_id in (
-                select role_id from t_pss_user_role where user_id=#{userId}
+                select menu_id from t_pss_role_menu t where t.role_code in (
+                select role_code from t_pss_user_role where
+                  role_code in (select code from t_pss_role)
+                  and user_id=#{userId}
                 )
             )
 

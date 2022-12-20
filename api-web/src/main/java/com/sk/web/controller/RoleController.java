@@ -22,7 +22,7 @@ import java.util.Date;
 
 @Api(tags = "角色信息")
 @RestController
-@RequestMapping(RequestCommonPathConstant.REQUEST_PROJECT_PATH+"/Role")
+@RequestMapping(RequestCommonPathConstant.REQUEST_PROJECT_PATH+"/role")
 public class RoleController {
     Logger log = LoggerFactory.getLogger(RoleController.class);
 

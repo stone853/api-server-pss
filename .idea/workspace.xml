@@ -5,116 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a0e4f23b-6f8f-495d-862a-06c0162ec30e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/api-base/build/tmp/compileJava/compileTransaction/stash-dir/CommonEnum.class.uniqueId2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api-base/build/tmp/compileJava/compileTransaction/stash-dir/GlobalExceptionHandler.class.uniqueId0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api-base/build/tmp/compileJava/compileTransaction/stash-dir/ResultBody.class.uniqueId1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api-web/build/classes/java/main/com/sk/web/controller/MenuController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api-web/build/classes/java/main/com/sk/web/controller/RoleController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api-web/build/classes/java/main/com/sk/web/controller/RoleMenuController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api-web/build/classes/java/main/com/sk/web/controller/UserController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api-web/build/classes/java/main/com/sk/web/controller/UserRoleController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api-web/build/classes/java/main/com/sk/web/mapper/MenuMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api-web/build/classes/java/main/com/sk/web/mapper/RoleMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api-web/build/classes/java/main/com/sk/web/mapper/RoleMenuMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api-web/build/classes/java/main/com/sk/web/mapper/UserMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api-web/build/classes/java/main/com/sk/web/mapper/UserRoleMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api-web/build/classes/java/main/com/sk/web/model/Menu.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api-web/build/classes/java/main/com/sk/web/model/MenuExample$Criteria.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api-web/build/classes/java/main/com/sk/web/model/MenuExample$Criterion.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api-web/build/classes/java/main/com/sk/web/model/MenuExample$GeneratedCriteria.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api-web/build/classes/java/main/com/sk/web/model/MenuExample.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api-web/build/classes/java/main/com/sk/web/model/Role.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api-web/build/classes/java/main/com/sk/web/model/RoleExample$Criteria.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api-web/build/classes/java/main/com/sk/web/model/RoleExample$Criterion.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api-web/build/classes/java/main/com/sk/web/model/RoleExample$GeneratedCriteria.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api-web/build/classes/java/main/com/sk/web/model/RoleExample.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api-web/build/classes/java/main/com/sk/web/model/RoleMenu.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api-web/build/classes/java/main/com/sk/web/model/RoleMenuExample$Criteria.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api-web/build/classes/java/main/com/sk/web/model/RoleMenuExample$Criterion.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api-web/build/classes/java/main/com/sk/web/model/RoleMenuExample$GeneratedCriteria.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api-web/build/classes/java/main/com/sk/web/model/RoleMenuExample.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api-web/build/classes/java/main/com/sk/web/model/UserExample$Criteria.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api-web/build/classes/java/main/com/sk/web/model/UserExample$Criterion.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api-web/build/classes/java/main/com/sk/web/model/UserExample$GeneratedCriteria.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api-web/build/classes/java/main/com/sk/web/model/UserExample.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api-web/build/classes/java/main/com/sk/web/model/UserRole.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api-web/build/classes/java/main/com/sk/web/model/UserRoleExample$Criteria.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api-web/build/classes/java/main/com/sk/web/model/UserRoleExample$Criterion.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api-web/build/classes/java/main/com/sk/web/model/UserRoleExample$GeneratedCriteria.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api-web/build/classes/java/main/com/sk/web/model/UserRoleExample.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api-web/build/classes/java/main/com/sk/web/service/MenuService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api-web/build/classes/java/main/com/sk/web/service/RoleMenuService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api-web/build/classes/java/main/com/sk/web/service/RoleService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api-web/build/classes/java/main/com/sk/web/service/UserRoleService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api-web/build/classes/java/main/com/sk/web/service/UserService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api-web/build/classes/java/main/com/sk/web/service/imp/MenuImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api-web/build/classes/java/main/com/sk/web/service/imp/RoleImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api-web/build/classes/java/main/com/sk/web/service/imp/RoleMenuImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api-web/build/classes/java/main/com/sk/web/service/imp/UserImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api-web/build/classes/java/main/com/sk/web/service/imp/UserRoleImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api-web/build/classes/java/test/com/sk/web/EncryptTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api-web/build/classes/java/test/com/sk/web/GeneratorTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api-web/build/resources/main/mapper/MenuMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api-web/build/resources/main/mapper/RoleMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api-web/build/resources/main/mapper/RoleMenuMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api-web/build/resources/main/mapper/UserMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api-web/build/resources/main/mapper/UserRoleMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api-web/build/tmp/compileJava/compileTransaction/stash-dir/MenuImpl.class.uniqueId0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api-web/build/tmp/compileTestJava/previous-compilation-data.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api-web/src/main/java/com/sk/web/controller/MenuController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api-web/src/main/java/com/sk/web/controller/RoleController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api-web/src/main/java/com/sk/web/controller/RoleMenuController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api-web/src/main/java/com/sk/web/controller/UserController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api-web/src/main/java/com/sk/web/controller/UserRoleController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api-web/src/main/java/com/sk/web/mapper/MenuMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api-web/src/main/java/com/sk/web/mapper/RoleMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api-web/src/main/java/com/sk/web/mapper/RoleMenuMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api-web/src/main/java/com/sk/web/mapper/UserMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api-web/src/main/java/com/sk/web/mapper/UserRoleMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api-web/src/main/java/com/sk/web/model/Menu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api-web/src/main/java/com/sk/web/model/MenuExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api-web/src/main/java/com/sk/web/model/Role.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api-web/src/main/java/com/sk/web/model/RoleExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api-web/src/main/java/com/sk/web/model/RoleMenu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api-web/src/main/java/com/sk/web/model/RoleMenuExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api-web/src/main/java/com/sk/web/model/UserExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api-web/src/main/java/com/sk/web/model/UserRole.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api-web/src/main/java/com/sk/web/model/UserRoleExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api-web/src/main/java/com/sk/web/service/MenuService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api-web/src/main/java/com/sk/web/service/RoleMenuService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api-web/src/main/java/com/sk/web/service/RoleService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api-web/src/main/java/com/sk/web/service/UserRoleService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api-web/src/main/java/com/sk/web/service/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api-web/src/main/java/com/sk/web/service/imp/MenuImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api-web/src/main/java/com/sk/web/service/imp/RoleImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api-web/src/main/java/com/sk/web/service/imp/RoleMenuImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api-web/src/main/java/com/sk/web/service/imp/UserImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api-web/src/main/java/com/sk/web/service/imp/UserRoleImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api-web/src/main/resources/mapper/MenuMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api-web/src/main/resources/mapper/RoleMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api-web/src/main/resources/mapper/RoleMenuMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api-web/src/main/resources/mapper/UserMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api-web/src/main/resources/mapper/UserRoleMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sk/web/dao/TPssMenuMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sk/web/dao/TPssRoleMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sk/web/dao/TPssRoleMenuMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sk/web/dao/TPssUserMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sk/web/dao/TPssUserRoleMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sk/web/model/TPssMenu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sk/web/model/TPssMenuExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sk/web/model/TPssRole.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sk/web/model/TPssRoleExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sk/web/model/TPssRoleMenu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sk/web/model/TPssRoleMenuExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sk/web/model/TPssUser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sk/web/model/TPssUserExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sk/web/model/TPssUserRole.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sk/web/model/TPssUserRoleExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/mappers/TPssMenuMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/mappers/TPssRoleMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/mappers/TPssRoleMenuMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/mappers/TPssUserMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/mappers/TPssUserRoleMapper.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.6/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.6/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.6/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.6/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.6/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.6/fileHashes/fileHashes.bin" afterDir="false" />
@@ -123,24 +13,56 @@
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/api-server.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/api-server.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api-auth/build/libs/api-auth-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/api-auth/build/libs/api-auth-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api-base/build/classes/java/main/com/sk/exception/CommonEnum.class" beforeDir="false" afterPath="$PROJECT_DIR$/api-base/build/classes/java/main/com/sk/exception/CommonEnum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api-base/build/libs/api-base-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/api-base/build/libs/api-base-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api-base/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/api-base/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api-base/src/main/java/com/sk/exception/CommonEnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/api-base/src/main/java/com/sk/exception/CommonEnum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api-web/build/classes/java/main/com/sk/web/model/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/api-web/build/classes/java/main/com/sk/web/model/User.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api-web/build/resources/main/application-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/api-web/build/resources/main/application-dev.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-web/build/classes/java/main/com/sk/web/controller/RoleController.class" beforeDir="false" afterPath="$PROJECT_DIR$/api-web/build/classes/java/main/com/sk/web/controller/RoleController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-web/build/classes/java/main/com/sk/web/controller/RoleMenuController.class" beforeDir="false" afterPath="$PROJECT_DIR$/api-web/build/classes/java/main/com/sk/web/controller/RoleMenuController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-web/build/classes/java/main/com/sk/web/controller/UserApi.class" beforeDir="false" afterPath="$PROJECT_DIR$/api-web/build/classes/java/main/com/sk/web/controller/UserApi.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-web/build/classes/java/main/com/sk/web/controller/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/api-web/build/classes/java/main/com/sk/web/controller/UserController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-web/build/classes/java/main/com/sk/web/controller/UserRoleController.class" beforeDir="false" afterPath="$PROJECT_DIR$/api-web/build/classes/java/main/com/sk/web/controller/UserRoleController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-web/build/classes/java/main/com/sk/web/model/RoleMenu.class" beforeDir="false" afterPath="$PROJECT_DIR$/api-web/build/classes/java/main/com/sk/web/model/RoleMenu.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-web/build/classes/java/main/com/sk/web/model/RoleMenuExample$Criteria.class" beforeDir="false" afterPath="$PROJECT_DIR$/api-web/build/classes/java/main/com/sk/web/model/RoleMenuExample$Criteria.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-web/build/classes/java/main/com/sk/web/model/RoleMenuExample$Criterion.class" beforeDir="false" afterPath="$PROJECT_DIR$/api-web/build/classes/java/main/com/sk/web/model/RoleMenuExample$Criterion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-web/build/classes/java/main/com/sk/web/model/RoleMenuExample$GeneratedCriteria.class" beforeDir="false" afterPath="$PROJECT_DIR$/api-web/build/classes/java/main/com/sk/web/model/RoleMenuExample$GeneratedCriteria.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-web/build/classes/java/main/com/sk/web/model/UserRole.class" beforeDir="false" afterPath="$PROJECT_DIR$/api-web/build/classes/java/main/com/sk/web/model/UserRole.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-web/build/classes/java/main/com/sk/web/model/UserRoleExample$Criteria.class" beforeDir="false" afterPath="$PROJECT_DIR$/api-web/build/classes/java/main/com/sk/web/model/UserRoleExample$Criteria.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-web/build/classes/java/main/com/sk/web/model/UserRoleExample$Criterion.class" beforeDir="false" afterPath="$PROJECT_DIR$/api-web/build/classes/java/main/com/sk/web/model/UserRoleExample$Criterion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-web/build/classes/java/main/com/sk/web/model/UserRoleExample$GeneratedCriteria.class" beforeDir="false" afterPath="$PROJECT_DIR$/api-web/build/classes/java/main/com/sk/web/model/UserRoleExample$GeneratedCriteria.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-web/build/classes/java/main/com/sk/web/service/imp/MenuImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/api-web/build/classes/java/main/com/sk/web/service/imp/MenuImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-web/build/classes/java/main/com/sk/web/utils/UserHelper.class" beforeDir="false" afterPath="$PROJECT_DIR$/api-web/build/classes/java/main/com/sk/web/utils/UserHelper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-web/build/libs/api-web-0.1.jar" beforeDir="false" afterPath="$PROJECT_DIR$/api-web/build/libs/api-web-0.1.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/api-web/build/resources/main/application-prod.yml" beforeDir="false" afterPath="$PROJECT_DIR$/api-web/build/resources/main/application-prod.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-web/build/resources/main/cert/key.pfx" beforeDir="false" afterPath="$PROJECT_DIR$/api-web/build/resources/main/cert/key.pfx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-web/build/resources/main/cert/pfx-password.txt" beforeDir="false" afterPath="$PROJECT_DIR$/api-web/build/resources/main/cert/pfx-password.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/api-web/build/resources/main/generatorConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/api-web/build/resources/main/generatorConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-web/build/resources/main/mapper/MenuMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/api-web/build/resources/main/mapper/MenuMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-web/build/resources/main/mapper/RoleMenuMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/api-web/build/resources/main/mapper/RoleMenuMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-web/build/resources/main/mapper/UserRoleMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/api-web/build/resources/main/mapper/UserRoleMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-web/build/tmp/compileJava/compileTransaction/stash-dir/MenuImpl.class.uniqueId0" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/api-web/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/api-web/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api-web/src/main/java/com/sk/web/model/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/api-web/src/main/java/com/sk/web/model/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api-web/src/main/resources/application-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/api-web/src/main/resources/application-dev.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-web/src/main/java/com/sk/web/controller/RoleController.java" beforeDir="false" afterPath="$PROJECT_DIR$/api-web/src/main/java/com/sk/web/controller/RoleController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-web/src/main/java/com/sk/web/controller/RoleMenuController.java" beforeDir="false" afterPath="$PROJECT_DIR$/api-web/src/main/java/com/sk/web/controller/RoleMenuController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-web/src/main/java/com/sk/web/controller/UserApi.java" beforeDir="false" afterPath="$PROJECT_DIR$/api-web/src/main/java/com/sk/web/controller/UserApi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-web/src/main/java/com/sk/web/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/api-web/src/main/java/com/sk/web/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-web/src/main/java/com/sk/web/controller/UserRoleController.java" beforeDir="false" afterPath="$PROJECT_DIR$/api-web/src/main/java/com/sk/web/controller/UserRoleController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-web/src/main/java/com/sk/web/model/RoleMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/api-web/src/main/java/com/sk/web/model/RoleMenu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-web/src/main/java/com/sk/web/model/RoleMenuExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/api-web/src/main/java/com/sk/web/model/RoleMenuExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-web/src/main/java/com/sk/web/model/UserRole.java" beforeDir="false" afterPath="$PROJECT_DIR$/api-web/src/main/java/com/sk/web/model/UserRole.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-web/src/main/java/com/sk/web/model/UserRoleExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/api-web/src/main/java/com/sk/web/model/UserRoleExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-web/src/main/java/com/sk/web/service/imp/MenuImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/api-web/src/main/java/com/sk/web/service/imp/MenuImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-web/src/main/java/com/sk/web/utils/UserHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/api-web/src/main/java/com/sk/web/utils/UserHelper.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/api-web/src/main/resources/application-prod.yml" beforeDir="false" afterPath="$PROJECT_DIR$/api-web/src/main/resources/application-prod.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-web/src/main/resources/cert/key.pfx" beforeDir="false" afterPath="$PROJECT_DIR$/api-web/src/main/resources/cert/key.pfx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-web/src/main/resources/cert/pfx-password.txt" beforeDir="false" afterPath="$PROJECT_DIR$/api-web/src/main/resources/cert/pfx-password.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/api-web/src/main/resources/generatorConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/api-web/src/main/resources/generatorConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-web/src/main/resources/mapper/MenuMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/api-web/src/main/resources/mapper/MenuMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-web/src/main/resources/mapper/RoleMenuMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/api-web/src/main/resources/mapper/RoleMenuMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-web/src/main/resources/mapper/UserRoleMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/api-web/src/main/resources/mapper/UserRoleMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sk/web/model/TPssRoleMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sk/web/model/TPssRoleMenu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sk/web/model/TPssRoleMenuExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sk/web/model/TPssRoleMenuExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sk/web/model/TPssUserRole.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sk/web/model/TPssUserRole.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sk/web/model/TPssUserRoleExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sk/web/model/TPssUserRoleExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/mappers/TPssRoleMenuMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/mappers/TPssRoleMenuMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/mappers/TPssUserRoleMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/mappers/TPssUserRoleMapper.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -188,6 +110,24 @@
               <path>
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
                 <item name="api-server" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="api-server" type="f1a62948:ProjectNode" />
+                <item name="api-web" type="2d1252cf:ModuleNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="api-server" type="f1a62948:ProjectNode" />
+                <item name="api-web" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="api-server" type="f1a62948:ProjectNode" />
+                <item name="api-web" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
               </path>
             </expand>
             <select />
@@ -572,7 +512,7 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
-    &quot;last_opened_file_path&quot;: &quot;D:/sk/api-server/api-web/src/main/java/com/sk/web/model&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/sk/api-server/api-web/src/main/resources/static&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
@@ -581,11 +521,11 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\sk\api-server\api-web\src\main\resources\static" />
+      <recent name="D:\sk\api-server\api-web\src\main\resources\cert" />
       <recent name="D:\sk\api-server\api-web\src\main\java\com\sk\web\model" />
       <recent name="D:\sk\api-server\api-web\src\main\java\com\sk\web\mapper" />
       <recent name="D:\sk\api-server\api-web\src\main\resources\mapper" />
-      <recent name="D:\work\stone\api-server\api-web\src\main\resources" />
-      <recent name="D:\work\stone\api-server\api-web\src\main\java\com\sk\web\model" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\work\stone\api-server\api-web\src\main\resources" />
@@ -605,6 +545,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.sk.web.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MD5Utils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sk.web.utils.MD5Utils" />
+      <module name="api-server.api-web.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sk.web.utils.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -648,27 +601,6 @@
       <DebugAllEnabled>false</DebugAllEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="api-server:api-web [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$/api-web" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value="build" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
-      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
-      <DebugAllEnabled>false</DebugAllEnabled>
-      <method v="2" />
-    </configuration>
     <configuration name="api-server:api-web [clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -699,19 +631,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.MD5Utils" />
       <item itemvalue="Application.GeneratorTest" />
       <item itemvalue="Application.ServerSpringbootApplication" />
-      <item itemvalue="Gradle.api-server:api-web [build]" />
       <item itemvalue="Gradle.api-server:api-web [clean]" />
       <item itemvalue="Gradle.api-server:api-web [bootJar]" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.GeneratorTest" />
-        <item itemvalue="Application.ServerSpringbootApplication" />
         <item itemvalue="Gradle.api-server:api-web [bootJar]" />
+        <item itemvalue="Application.MD5Utils" />
+        <item itemvalue="Application.ServerSpringbootApplication" />
+        <item itemvalue="Application.GeneratorTest" />
         <item itemvalue="Gradle.api-server:api-web [clean]" />
-        <item itemvalue="Gradle.api-server:api-web [build]" />
       </list>
     </recent_temporary>
   </component>
@@ -1003,11 +935,6 @@
           <url>file://$PROJECT_DIR$/api-web/src/main/java/com/sk/web/controller/ProductImageController.java</url>
           <line>77</line>
           <option name="timeStamp" value="20" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/api-web/src/main/java/com/sk/web/service/imp/ProductInfoImpl.java</url>
-          <line>46</line>
-          <option name="timeStamp" value="22" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

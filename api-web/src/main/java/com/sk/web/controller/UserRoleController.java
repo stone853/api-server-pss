@@ -18,7 +18,7 @@ import org.springframework.web.bind.annotation.*;
 
 @Api(tags = "用户角色信息")
 @RestController
-@RequestMapping(RequestCommonPathConstant.REQUEST_PROJECT_PATH+"/UserRole")
+@RequestMapping(RequestCommonPathConstant.REQUEST_PROJECT_PATH+"/userRole")
 public class UserRoleController {
     Logger log = LoggerFactory.getLogger(UserRoleController.class);
 

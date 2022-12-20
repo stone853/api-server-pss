@@ -1,7 +1,13 @@
 package com.sk.web.utils;
 
 import com.auth0.jwt.JWT;
+import com.auth0.jwt.algorithms.Algorithm;
 import com.sk.exception.BizException;
+import com.sk.web.constant.CommonConstant;
+import com.sk.web.model.Membership;
+import com.sk.web.model.User;
+
+import java.util.Date;
 
 /**
  * @Author jinshi
@@ -26,5 +32,11 @@ public class UserHelper {
             e.printStackTrace();
         }
         return "";
+    }
+
+    public static String getToken(String userId,String pass) {
+        return JWT.create().withExpiresAt(new Date(System.currentTimeMillis() + CommonConstant.EXPIRE_TIME))
+                .withAudience(String.valueOf(userId))
+                .sign(Algorithm.HMAC256(pass));
     }
 }

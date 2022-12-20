@@ -4,7 +4,7 @@
   <resultMap id="BaseResultMap" type="com.sk.web.model.UserRole">
     <result column="id" jdbcType="BIGINT" property="id" />
     <result column="user_id" jdbcType="VARCHAR" property="userId" />
-    <result column="role_id" jdbcType="BIGINT" property="roleId" />
+    <result column="role_code" jdbcType="VARCHAR" property="roleCode" />
   </resultMap>
 
 </mapper>

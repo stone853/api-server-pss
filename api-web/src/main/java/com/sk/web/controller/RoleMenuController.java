@@ -18,7 +18,7 @@ import org.springframework.web.bind.annotation.*;
 
 @Api(tags = "角色菜单信息")
 @RestController
-@RequestMapping(RequestCommonPathConstant.REQUEST_PROJECT_PATH+"/RoleMenu")
+@RequestMapping(RequestCommonPathConstant.REQUEST_PROJECT_PATH+"/roleMenu")
 public class RoleMenuController {
     Logger log = LoggerFactory.getLogger(RoleMenuController.class);
 

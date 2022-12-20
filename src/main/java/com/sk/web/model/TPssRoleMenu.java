@@ -3,7 +3,7 @@ package com.sk.web.model;
 public class TPssRoleMenu {
     private Long id;
 
-    private Long roleId;
+    private String roleCode;
 
     private Long menuId;
 
@@ -15,12 +15,12 @@ public class TPssRoleMenu {
         this.id = id;
     }
 
-    public Long getRoleId() {
-        return roleId;
+    public String getRoleCode() {
+        return roleCode;
     }
 
-    public void setRoleId(Long roleId) {
-        this.roleId = roleId;
+    public void setRoleCode(String roleCode) {
+        this.roleCode = roleCode == null ? null : roleCode.trim();
     }
 
     public Long getMenuId() {

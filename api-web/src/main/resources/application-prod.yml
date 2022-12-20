@@ -20,7 +20,6 @@ spring:
       force: true
       enabled: true
 
-
 mybatis:
   mapper-locations : classpath:mapper/*.xml
   type-aliases-package: com.sk.web.model
@@ -53,7 +52,7 @@ server:
   ssl:
     ##key-store: classpath:cert/5173245_www.csh111.top.pfx
     key-store: classpath:cert/key.pfx
-    key-store-password: ciEgQpS8
+    key-store-password: yq3lqxh1
     keyStoreType: PKCS12
 
 crm:

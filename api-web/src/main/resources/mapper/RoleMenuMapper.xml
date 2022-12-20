@@ -3,7 +3,7 @@
 <mapper namespace="com.sk.web.mapper.RoleMenuMapper">
   <resultMap id="BaseResultMap" type="com.sk.web.model.RoleMenu">
     <result column="id" jdbcType="BIGINT" property="id" />
-    <result column="role_id" jdbcType="BIGINT" property="roleId" />
+    <result column="role_code" jdbcType="VARCHAR" property="roleCode" />
     <result column="menu_id" jdbcType="BIGINT" property="menuId" />
   </resultMap>
 

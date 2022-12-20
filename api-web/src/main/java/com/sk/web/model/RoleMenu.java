@@ -6,7 +6,7 @@ import javax.persistence.Table;
 public class RoleMenu {
     private Long id;
 
-    private Long roleId;
+    private String roleCode;
 
     private Long menuId;
 
@@ -18,12 +18,12 @@ public class RoleMenu {
         this.id = id;
     }
 
-    public Long getRoleId() {
-        return roleId;
+    public String getRoleCode() {
+        return roleCode;
     }
 
-    public RoleMenu setRoleId(Long roleId) {
-        this.roleId = roleId;
+    public RoleMenu setRoleCode(String roleCode) {
+        this.roleCode = roleCode;
         return this;
     }
 

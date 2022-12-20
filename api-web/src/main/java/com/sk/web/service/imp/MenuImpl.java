@@ -76,10 +76,7 @@ public class MenuImpl extends BaseImpl<Menu, MenuExample> implements MenuService
         }
 
         //可以使用雪花算法，生成ID
-
-        menuMapper.insert(menu);
-
-        return null;
+        return new ResultJsonModel<Menu>().setCode(mapper.insert(menu)).setMessage(ResultEnum.SUCCESS.getMsg());
     }
 
     public ResultListModel findAll() {
@@ -98,11 +95,24 @@ public class MenuImpl extends BaseImpl<Menu, MenuExample> implements MenuService
 
     @Override
     public ResultListModel queryMenusById(String userId) {
-        List<Menu> list = menuMapper.findMenuByUserId(userId);
+        if (!StringUtils.isNotEmpty(userId)) {
+            throw new BizException("-1","userid 为空");
+        }
 
-        List<Menu> resultList = transferMenuVo(list, 0L);
+        if (userId.equals("admin")) {
+            return findAll();
+        }
 
-        return new ResultListModel<Menu>().setCode(ResultEnum.SUCCESS.getCode()).setMessage(ResultEnum.SUCCESS.getMsg()).setList(resultList);
+        try {
+            List<Menu> list = menuMapper.findMenuByUserId(userId);
+
+            List<Menu> resultList = transferMenuVo(list, 0L);
+
+            return new ResultListModel<Menu>().setCode(ResultEnum.SUCCESS.getCode()).setMessage(ResultEnum.SUCCESS.getMsg()).setList(resultList);
+        } catch (Exception e){
+            return new ResultListModel<Menu>().setCode(ResultEnum.ERROR.getCode()).setMessage("查询失败");
+        }
+
 
     }
 
